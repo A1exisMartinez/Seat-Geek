@@ -1,0 +1,16 @@
+/* Insert your code below here */
+
+@import url("https://fonts.googleapis.com/css2?family=Rye&display=swap");
+
+main {
+  font-family: "Rye", cursive;
+  font-size: 50px;
+  text-align: center;
+  color: #ff5b49;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
